@@ -4,6 +4,6 @@
 
 <h2 align="left">Software Engineer • Cross Platform Developer</h2>
 
-<p align="left">
+<g2 align="left">
   I love building beautiful mobile apps and exploring new technologies.
-</p>
+</h2>
