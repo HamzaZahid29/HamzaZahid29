@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20there%20Welcome%20to%20my%20github%20profile&fontSize=20&color=0:6A11CB,100:2575FC&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20there%20Welcome%20to%20my%20github%20profile&fontSize=30&color=0:6A11CB,100:2575FC&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h2 align="left">Flutter Developer • Mobile Engineer</h2>
