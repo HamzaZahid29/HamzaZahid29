@@ -4,6 +4,6 @@
 
 <h2 align="left">Flutter Developer • Mobile Engineer</h2>
 
-<p align="center">
+<p align="left">
   I love building beautiful mobile apps and exploring new technologies.
 </p>
