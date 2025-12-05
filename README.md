@@ -4,6 +4,22 @@
 
 <h2 align="left">Software Engineer • Cross Platform Developer</h2>
 
-<g2 align="left">
-  I love building beautiful mobile apps and exploring new technologies.
-</h2>
+<p align="left">
+  I love building beautiful mobile apps and exploring new technologies.<br>
+  I work with: <b>Java, Dart, Golang, Swift, Kotlin</b><br>
+  I love solving problems and creating amazing tools.
+</p>
+
+<p align="left">
+  You can connect with me on my:
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamza-zahid-85a101289" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/HamzaZahid29" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
